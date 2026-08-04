@@ -86,8 +86,8 @@ See the `LICENSE` file for more details.
 
 For questions, suggestions, or collaboration:
 
-* **Email:** [malithhanchapola.dev@gmail.com](mailto:malithhanchapola.dev@gmail.com)
-* **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+* **Email:** 
+* **GitHub:** 
 
 
 
